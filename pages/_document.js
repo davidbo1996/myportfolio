@@ -13,7 +13,8 @@ class MyDocument extends Document {
                 <link rel='stylesheet' 
                 href='https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js'/>
                 <link rel="stylesheet" 
-                href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" />              
+                href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" />   
+                           
                 </Head>
                 <body>
                     <Main />
